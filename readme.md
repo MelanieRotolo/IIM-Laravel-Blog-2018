@@ -1,11 +1,8 @@
-# Projet Laravel 
+# [IIM] Laravel Blog 2018
+## Description
 
-## Projet
+Creating a blog with Laravel
 
-Création d'un blog simple avec Laravel
-
-## Utilisé : 
-#### Outils
-
-
-#### Langages 
+## Used 
+#### Framework
+* Laravel
